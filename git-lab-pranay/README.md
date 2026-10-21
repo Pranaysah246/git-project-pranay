@@ -5,3 +5,6 @@ I am a student at ugsot , currently learing git and github.
 - communication 
 - Problem solving 
 - Basic git
+## project 
+-Pranay: one line about it
+-Pranay: one line about it 
