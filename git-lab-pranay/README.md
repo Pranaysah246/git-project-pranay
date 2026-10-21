@@ -8,6 +8,3 @@ I am a student at ugsot , currently learing git and github.
 ## project 
 -Pranay: one line about it
 -Pranay: one line about it 
-## social links 
-- github: https://github.com/Pranaysah246
-- LinkedIn: linkedin.com/in/pranay-sah
