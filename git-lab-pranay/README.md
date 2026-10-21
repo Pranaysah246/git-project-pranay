@@ -8,3 +8,5 @@ I am a student at ugsot , currently learing git and github.
 ## project 
 -Pranay: one line about it
 -Pranay: one line about it 
+# Contact 
+- Email: pranaysah246@gmail.com
