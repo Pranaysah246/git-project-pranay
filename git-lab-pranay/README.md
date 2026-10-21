@@ -1,3 +1,12 @@
  # pranay sah 
 ## I am a cs student 
 I am a student at ugsot , currently learing git and github.
+## Skills 
+- communication 
+- Problem solving 
+- Basic git
+## project 
+-Pranay: one line about it
+-Pranay: one line about it 
+# Contact 
+- Email: pranaysah246@gmail.com
